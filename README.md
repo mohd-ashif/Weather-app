@@ -4,7 +4,7 @@
 A brief description of what this project does and who it's for
 
 
-##  Wheather App
+##  Weather App
 Weather App This repository contains the code for a simple weather app website. The app uses the OpenWeatherMap API to fetch weather data for a given location. The data is then displayed on the website in a user-friendly format.
 
 Requirements To run the app, you will need the following:
